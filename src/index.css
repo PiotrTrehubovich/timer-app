@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url(D:\Programs\Programming\projects\safari_project\fonts\Ubuntu\Ubuntu-Bold.ttf);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

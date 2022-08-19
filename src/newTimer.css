@@ -1,0 +1,50 @@
+.timer {
+    height: 753px;
+    margin: 0;
+}
+.timer-start {
+    background-color: rgba(234, 226, 227, 1);
+}
+.timer-chill {
+    background-color: rgba(181, 167, 173, 1);
+}
+.timer-work {
+    background-color: rgba(198, 179, 206, 1);
+}
+.countDownTimer {
+    font-size: 60px;
+    line-height: 80px;
+    font-weight: 700;
+    color: rgba(128, 100, 142, 1);
+    margin: 50px 50px;
+}
+.main-header {
+    font-family: Ubuntu;
+    font-size: 44px;
+    line-height: 50px;
+    font-weight: 700;
+    color: rgba(128, 100, 142, 1);
+    margin-top: 0;
+    padding-top: 100px;
+}
+.secondary-header {
+    font-family: Ubuntu;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 400;
+    color: rgba(128, 100, 142, 1);
+}
+.button {
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    border-color: white;
+    border-width: 2px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: Ubuntu;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+    color: rgba(128, 100, 142, 1);
+}
